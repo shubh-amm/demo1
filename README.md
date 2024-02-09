@@ -1,2 +1,2 @@
 # demo1
-exploring github
+exploring github.
